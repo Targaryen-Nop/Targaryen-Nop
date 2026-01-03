@@ -2,16 +2,16 @@
 Software Engineer | ERP & Backend Systems
 
 I’m a software engineer with hands-on experience in **ERP integration, backend development, and data-driven systems**.  
-I mainly work with **Infor M3 ERP** and modern web & mobile technologies to build tools that support real business operations.
+I primarily work with **Infor M3 ERP** and modern web & mobile technologies to build tools that support real-world business operations.
 
 ---
 
 ## 🧠 What I Work On
-- ERP Integration & Data Sync (Infor M3)
-- Backend APIs for Sales, Orders & Stock
-- Financial & Route-based Reporting
-- Internal Dashboards & Mobile Apps
-- Automation & Daily Operation Tools
+- ERP integration & data synchronization (Infor M3)
+- Backend APIs for sales, orders, and stock management
+- Financial and route-based reporting
+- Internal dashboards and mobile applications
+- Automation for daily operational processes
 
 ---
 
@@ -21,7 +21,7 @@ I mainly work with **Infor M3 ERP** and modern web & mobile technologies to buil
 - **Node.js / Express**
 - **MongoDB / Mongoose**
 - **SQL Server (Infor M3 ERP)**
-- Sequelize, Aggregation Pipeline
+- Sequelize, MongoDB Aggregation Pipeline
 
 ### Frontend & Mobile
 - **Vue 3 / Nuxt 3**
@@ -29,58 +29,55 @@ I mainly work with **Infor M3 ERP** and modern web & mobile technologies to buil
 - Tailwind CSS
 
 ### Tools & Ops
-- Docker (basic)
 - PM2, Nginx
-- ExcelJS / Power BI Export
+- ExcelJS, Power BI (reporting & export)
 - Git & GitHub
 
 ---
 
 ## 📦 Example Projects
-- 🔄 Sync Orders & Stock between ERP (M3) and Online Channels  
-- 📊 Route & SendMoney Summary by Area / Period  
-- 🧾 VAT & Financial Reports (Excel / BI)  
-- 📱 Flutter apps for internal sales teams  
-- ⚙️ Cron jobs for automated data processing  
+- 🔄 Order and stock synchronization between ERP (M3) and online channels  
+- 📊 Route performance and SendMoney summaries by area and period  
+- 🧾 VAT and financial reporting (Excel / BI)  
+- 📱 Flutter applications for internal sales teams  
+- ⚙️ Automated cron jobs for recurring data processing  
 
 ---
 
 ## 🧩 How I Build Systems
 - Clear project structure (controller / service / model)
-- Focus on data accuracy (especially finance-related data)
-- Timezone-aware reporting
-- Code that teammates can understand and maintain
+- Strong focus on data accuracy (especially finance-related data)
+- Timezone-aware reporting and period-based logic
+- Maintainable code that teammates can easily understand
 
 ---
 
 ## 📌 Repositories
-> Public repositories focus on **real use cases**, structure, and maintainable code.
+> Public repositories focus on **real use cases**, clean structure, and maintainable code.
 
-Pinned repositories include:
-- ERP Integration APIs
-- Backend Reporting Services
-- Vue Dashboards
-- Flutter Internal Apps
+Pinned repositories showcase:
+- ERP integration APIs
+- Backend reporting services
+- Vue-based dashboards
+- Flutter internal applications
 
 ---
 
+## 🛠️ Skills in Practice
+- MongoDB aggregation (group, lookup, unwind)
+- SQL Server queries for ERP-level data
+- Node.js APIs for high-volume datasets
+- Excel and BI-based reporting workflows
+
+---
+
+## ✍️ Technical Notes
+- Handling timezone issues in financial reports
+- Designing MongoDB aggregations for monthly summaries
+- ERP data reconciliation and consistency strategies
 
 ---
 
 ## 📫 Contact
-- Email: nopparatmunsuwant@gmail.com
-- Phone : 0995960320
-<!--
-**Targaryen-Nop/Targaryen-Nop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** nopparatmunsuwant@gmail.com  
+- **Phone:** +66 99 596 0320
