@@ -65,7 +65,10 @@ Pinned repositories include:
 ---
 
 ## 📊 GitHub Stats
-![Nopparat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Targaryen-Nop&show_icons=true&hide_title=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Targaryen-Nop&theme=tokyonight&show_icons=true&hide_title=true"
+  alt="Nopparat's GitHub stats"
+/>
 
 ---
 
