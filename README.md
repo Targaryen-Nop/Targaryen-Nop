@@ -64,17 +64,12 @@ Pinned repositories include:
 
 ---
 
-## 📊 GitHub Stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Targaryen-Nop&theme=tokyonight&show_icons=true&hide_title=true"
-  alt="Nopparat's GitHub stats"
-/>
 
 ---
 
 ## 📫 Contact
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: nopparatmunsuwant@gmail.com
+- Phone : 0995960320
 <!--
 **Targaryen-Nop/Targaryen-Nop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
