@@ -26,12 +26,20 @@ I primarily work with **Infor M3 ERP** and modern web & mobile technologies to b
 ### Frontend & Mobile
 - **Vue 3 / Nuxt 3**
 - **Flutter**
+- **React Native**
+- **React.js**
 - Tailwind CSS
+
+### Full Stack
+- **Next.js**
+- **Flutter**
 
 ### Tools & Ops
 - PM2, Nginx
 - ExcelJS, Power BI (reporting & export)
 - Git & GitHub
+- Docker
+- Githup Actions
 
 ---
 
